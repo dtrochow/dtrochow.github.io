@@ -44,13 +44,12 @@ gtm: "GTM-0000000"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dominik and I'm a passionate Software Engineer specializing in embedded systems projects. I like taking on new challenges from inception to design and implementation,
-  which allows me to have a tangible impact on the final product. In addition to this, I excel in leading teams towards task completion. Beyond that, I also thrive on taking on new projects from scratch,
-  starting with an idea, crafting the design, and seeing it through to implementation. This approach gives me a real influence on the final product.
+  Hi, I’m Dominik, a passionate Software Engineer specializing in embedded systems projects.
+  I thrive on tackling new challenges, from inception through design and implementation, allowing me to have a tangible impact on the final product.
+  I also excel at leading teams to successful task completion and enjoy starting new projects from scratch, turning ideas into fully realized solutions.
   In my free time, I love working on personal electronics projects, refining my skills, and exploring creative solutions.
 
-
-  Skills: <mark>C/C++</mark> <mark>Debugging</mark> <mark>Docker</mark> <mark>CMake</mark> <mark>Unit Tests</mark> <mark>Python</mark> <mark>RTOS</mark> <mark>Linux</mark> <mark>Assembler (basics)</mark> <mark>design patterns</mark>
+  Skills: <mark>C/C++</mark> <mark>Debugging</mark> <mark>Docker</mark> <mark>CMake</mark> <mark>Unit Tests</mark> <mark>Python</mark> <mark>RTOS</mark> <mark>Linux</mark> <mark>Assembler (basics)</mark> <mark>design patterns</mark> <mark>Rust</mark> <mark>Go</mark>
 
 content:
   # - title: Projects # Title for the section
@@ -63,16 +62,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Intel
+        link: https://www.intel.com/
+        link_text: intel.com
+        sub_title: System Software Development Engineer
+        caption: January 2024 - Present
+        quote: >
+          Intel Flex Engineering
+        description: | # this will include new lines to allow paragraphs
+          * Engaged in the development of a Linux Ethernet controller driver, focusing on
+            debugging and enabling hardware features on the FPGA image.
+          * Assisted with navigating security processes to ensure compliance for product
+            release.
+          * Developed an AI-driven tool from scratch using Rust and Go languages,
+            leading the project from design through deployment and testing.
+      - layout: left
         title: Solidigm
         link: https://www.solidigm.com/
         link_text: solidigm.com
         sub_title: Software Development Engineer
-        caption: January 2022 - Present
+        caption: January 2022 - December 2023
         quote: >
           NAND Product Solutions Group
         description: | # this will include new lines to allow paragraphs
-          I am currently involved in the security features development and enablement (design, implementation and unit/manual testing).
-          In my team I am taking a part in design of final solutions and then implementation in the SSD firmware.
+          * Contributed to the development and enablement of security features,
+            including design, implementation, and unit/manual testing.
+          * Played a key role in the design of final solutions, followed by their
+            implementation in SSD firmware as part of the team.
       - layout: left
         title: Intel
         link: https://www.intel.com/
@@ -82,8 +98,12 @@ content:
         quote: >
           NAND Product Solutions Group
         description: | # this will include new lines to allow paragraphs
-          I continued my work as a Security Team member. I started working on the security features, fixing bugs, extending
-          the simulator capabilities and setting up the new python CI testing framework from scratch.
+          * Continued contributing to the Security Team by developing and enhancing
+            security features for SSD drives.
+          * Fixed bugs and extended the capabilities of the security features simulator.
+          * Took initiative in setting up a new Python-based Continuous Integration (CI)
+            testing framework from scratch, ensuring robust and automated testing
+            processes.
       - layout: left
         title: Intel
         link: https://www.intel.com/
@@ -93,8 +113,12 @@ content:
         quote: >
           NAND Product Solutions Group
         description: | # this will include new lines to allow paragraphs
-          I started my internship in Security Team, which was developing the security features in SSD drives (TCG).
-          I was involved in setting up a new repository with CI using Quick Build tool and also working on a simulation tasks.
+          * Contributed to the development of security features for SSD drives,
+            specifically focusing on TCG (Trusted Computing Group) standards.
+          * Played a key role in setting up a new repository with Continuous Integration
+            (CI) using the Quick Build tool.
+          * Assisted in simulation tasks to support the development and testing of
+            security features.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
