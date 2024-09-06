@@ -49,7 +49,8 @@ about_content: | # this will include new lines to allow paragraphs
   I also excel at leading teams to successful task completion and enjoy starting new projects from scratch, turning ideas into fully realized solutions.
   In my free time, I love working on personal electronics projects, refining my skills, and exploring creative solutions.
 
-  Skills: <mark>C/C++</mark> <mark>Debugging</mark> <mark>Docker</mark> <mark>CMake</mark> <mark>Unit Tests</mark> <mark>Python</mark> <mark>RTOS</mark> <mark>Linux</mark> <mark>Assembler (basics)</mark> <mark>design patterns</mark> <mark>Rust</mark> <mark>Go</mark>
+  Skills: <mark>C/C++</mark> <mark>Debugging</mark> <mark>Docker</mark> <mark>CMake</mark> <mark>Unit Tests</mark> <mark>Python</mark> <mark>RTOS</mark> <mark>Linux</mark>
+          <mark>Assembler (basics)</mark> <mark>gdb</mark> <mark>design patterns</mark> <mark>Rust</mark> <mark>Go</mark> <mark>MkDocs</mark>
 
 content:
   # - title: Projects # Title for the section
