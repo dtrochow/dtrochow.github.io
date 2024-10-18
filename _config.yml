@@ -63,11 +63,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Solidigm
+        link: https://www.solidigm.com/
+        link_text: solidigm.com
+        sub_title: Firmware Engineer
+        caption: October 2024 - Present
+        quote: >
+          NAND Product Solutions
+      - layout: left
         title: Intel
         link: https://www.intel.com/
         link_text: intel.com
         sub_title: System Software Development Engineer
-        caption: January 2024 - Present
+        caption: January 2024 - October 2024
         quote: >
           Intel Flex Engineering
         description: | # this will include new lines to allow paragraphs
@@ -84,7 +92,7 @@ content:
         sub_title: Software Development Engineer
         caption: January 2022 - December 2023
         quote: >
-          NAND Product Solutions Group
+          NAND Product Solutions
         description: | # this will include new lines to allow paragraphs
           * Contributed to the development and enablement of security features,
             including design, implementation, and unit/manual testing.
