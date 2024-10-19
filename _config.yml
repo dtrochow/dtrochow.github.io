@@ -154,10 +154,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering and electronics some of my other interests and hobbies are:
+      In addition to my professional interests, I also pursue the following hobbies:
+      - Participating in Capture the Flag competitions
+        - My favorite categories are Hardware, PWN, Reverse Engineering, Miscellaneous, and Forensics 
+      - Solving complex problems
+        - For example, participating in Advent of Code competitions - [My Solutions in Rust](https://github.com/dtrochow/advent_of_code)
       - **Designing 3D** parts and **3D printing**
-      - Cycling, gym, rollerblading
-      - Extending automation in my home (*Home Assistant*)
+      - Cycling, gym, rollerblading, OCR (Obstacle Course Racing) competitions, running
+      - Home automation (*Home Assistant*)
       - Board games
       - Learning **Rust** programming language
       - Electronics projects and
@@ -166,6 +170,8 @@ content:
         [Led Cube RGB 4x4x4](https://github.com/dtrochow/LED_Cube_RGB)
 
         ![led_cube](images/led_cube.jpg "Led Cube"){:style="width: 60vw;"}
+
+      For additional software and hardware projects, visit my GitHub profile: [GitHub dtrochow](https://github.com/dtrochow)
 
 # Footer
 footer_show_references: true
