@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
   In my free time, I love working on personal electronics projects, refining my skills, and exploring creative solutions.
 
   Skills: <mark>C/C++</mark> <mark>Debugging</mark> <mark>Docker</mark> <mark>CMake</mark> <mark>Unit Tests</mark> <mark>Python</mark> <mark>RTOS</mark> <mark>Linux</mark>
-          <mark>Assembler (basics)</mark> <mark>gdb</mark> <mark>design patterns</mark> <mark>Rust</mark> <mark>Go</mark> <mark>MkDocs</mark>
+          <mark>Assembler (basics)</mark> <mark>gdb</mark> <mark>design patterns</mark> <mark>Rust</mark> <mark>Go</mark> <mark>MkDocs</mark> <mark>GitHub Actions</mark>
 
 content:
   # - title: Projects # Title for the section
